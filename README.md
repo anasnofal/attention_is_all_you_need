@@ -43,9 +43,3 @@ Key components:
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. *Attention Is All You Need.* NeurIPS 2017.
 
 ---
-
-
----
-
-## 📄 License
-Specify your license (e.g., MIT) here.
